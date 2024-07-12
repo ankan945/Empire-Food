@@ -1,0 +1,14 @@
+.bg-wt {
+    background-color: white !important;
+  }
+  /* Define a class or target the <hr> tag directly */
+
+  
+  .card-hover:hover {
+    /* Define the styles you want to apply on hover here */
+    transform: translatey(-10px);
+    filter: drop-shadow(14px 14px 5px cyan);
+    transition-delay: 20ms;
+    transition: transform 0.7s ease-in-out, filter 0.7s ease-in-out;
+  }
+  

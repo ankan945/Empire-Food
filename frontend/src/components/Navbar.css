@@ -1,0 +1,7 @@
+.bg-purple {
+    background-color: purple !important;
+  }
+  .nav-link.active {
+    color: yellow;
+  }
+  /* Custom Modal Styles */

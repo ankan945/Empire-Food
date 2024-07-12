@@ -1,0 +1,48 @@
+/* Custom Modal Styles */
+.custom-brand {
+  font-family: 'Pacifico', cursive; /* Using a beautiful cursive font */
+  color: #ffdf00 !important; /* A vibrant yellow color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adding some shadow for depth */
+  transition: transform 0.3s, color 0.3s; /* Smooth transition for hover effects */
+}
+
+.custom-brand:hover {
+  color: #ffcc00; /* Slightly different yellow on hover */
+  transform: scale(1.1); /* Slightly increase the size on hover */
+}
+
+.modal-content {
+    background-color: #5f7d9c;
+    border-radius: 10px;
+  }
+
+  .bg-purple {
+    background-color: purple !important;
+  }
+
+  .modal-header {
+    border-bottom: 1px solid #5dcce5;
+  }
+  
+  .modal-title {
+    color: #4a0c65;
+    font-size: 1.25rem;
+  }
+  
+  .modal-body {
+    padding: 1.5rem;
+  }
+  
+  .modal-item {
+    margin-bottom: 1rem;
+    color: #0c1013;
+  }
+  
+  .modal-item span {
+    font-weight: bold;
+  }
+  
+  .modal-footer {
+    border-top: 1px solid #dee2e6;
+  }
+  
